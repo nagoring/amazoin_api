@@ -1,0 +1,3 @@
+# amazoin_api
+Product Advertising APIを使ってレビューした人のリストを取得するためのサンプルソース
+
